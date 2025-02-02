@@ -8,7 +8,7 @@ export function App() {
       <header class="header">
         {/* left box for logo */}
         <div class="left">
-          <img src="IMG/img.png" alt=""/>;
+          <img  className="a" src="img.png" alt=""/>;
             <div> Singh Fitness</div>
         </div>
         {/* mid box for navbar */}
